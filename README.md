@@ -6,3 +6,5 @@ Se aprendió:
 - Pull request
 - Flujo de trabajo
 Creado por yo
+incluye ejemplos en windows, linux y mac
+disponible hasta hoy 
